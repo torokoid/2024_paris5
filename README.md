@@ -143,19 +143,38 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～ホテルにチェックイン後、スタジアムへ～～～<br><br></span></h3>
 
-
-
+<a href="20240726_125.JPG" data-lightbox="abc"><img src="20240726_125.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_126.JPG" data-lightbox="abc"><img src="20240726_126.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_127.JPG" data-lightbox="abc"><img src="20240726_127.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_128.JPG" data-lightbox="abc"><img src="20240726_128.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_129.JPG" data-lightbox="abc"><img src="20240726_129.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">!!!君が代!!!</marquee></span></h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-xn5JubL5g?si=uwkafQQgxTs-ciZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<h3><span class="yellow"><br>～～～スタジアム行きバス停には、地元ボランティアが案内してくれました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>ナデシコの試合をスタジアム観戦で偶然隣りの席が富士ゼロックス時代の先輩。WCスタジアム観戦100試合以上の有名人。<br>
+私の次女は仕事でWEリーグのイベント担当。フリーキックを決めた、藤野あおば。フリートークさせると全く話せないらしい<br>
+MVP清家が全く目立ってないのを残念がっていた。<br>
+日本の攻撃は数回だけ。スペインのCB二人へのバックパスは殆どなかった。日本は長谷川ですらGKバックパス連発。<br>
+フリーキック獲得したスペインのファールはDOGSO<br>
+レッド出してもおかしくなかった。試合はスペインのボール回しに日本がなんとか耐える時間が長く、それを観客が固唾をのんで見守る。静まりかえっていた。ゴール裏の日本サポーターですら声が出ない。<br>
+逆転されるまで、スペイン人がエスパーニャと時々連呼<br>
+フェイスペイントした日本サポーター、日本代表ユニフォームをきた男性白人、ゲームキャラにフェイスペイントした日本サポーターが、<br>
+バックスタンドの最前列前の通路で、歩きながらハーポンと叫びながら手拍子しても効果なし。<br>
+途中交代する選手も全く活躍できない。日本が縦にボールをてもスペインの方が足が速くて触ることもできない<br>
+それでも、ATにスペイン陣内でに入りこんだ。審判が左サイドへのパスコースにいたのには女子審判の経験不足、フィジカル不足を感じた。<br>
+ルーズボールは全てスペインが拾う。日本が縦にボールを出せる形になっても、全てカット<br>
+1-2で終わり、パラグアイみたいに大怪我しなくて幸い<br>
+ブラジル戦はパリなのでチケット買えてない。<br>
+オリンピックのサッカー人気は低下。スタジアムはガラガラ<br>
+試合の後、食事する両サポーターの姿も乏しい。<br>
+明日は、パリに移動してオープニングセレモニーをセーヌ川沿いのスタート地点あたりで見ます。<br>
+翌日、ボルドーに戻り、日本対リマ観戦。その後、ナントで日本男女に試合スタジアム観戦。<br><br></span></h3>
 
 
-
-<h2><span class="yellow"><marquee behavior="left">!!!まさかの快勝!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!試合後、Nantesの駅近くで夕食後に散歩!!!</marquee></span></h2>
 
 
 
