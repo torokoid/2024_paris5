@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris5/20240726_086.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris5/20240726_111.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">22日〜23日</a>>24日〜</p><!--</div>-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>>25日〜</p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 24日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
@@ -176,11 +176,13 @@ MVP清家が全く目立ってないのを残念がっていた。<br>
 
 <h2><span class="yellow"><marquee behavior="left">!!!試合後、Nantesの駅近くで夕食後に散歩!!!</marquee></span></h2>
 
-
-
-<h3><span class="yellow"><br>～～～帰りのバス、子供のハチマキに南相馬の文字<br>
-夕食はTATAKI～～～<br><br></span></h3>
-
+<a href="20240726_130.JPG" data-lightbox="abc"><img src="20240726_130.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_131.JPG" data-lightbox="abc"><img src="20240726_131.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_132.JPG" data-lightbox="abc"><img src="20240726_132.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_133.JPG" data-lightbox="abc"><img src="20240726_133.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_134.JPG" data-lightbox="abc"><img src="20240726_134.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_135.JPG" data-lightbox="abc"><img src="20240726_135.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_136.JPG" data-lightbox="abc"><img src="20240726_136.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
