@@ -111,6 +111,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>～～～今、ここにいます。ナントまで、あと約2時間。電車で犬と旅行している人～～～<br><br></span></h3>
 
 <a href="20240726_101.JPG" data-lightbox="abc"><img src="20240726_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="Lucon.png" data-lightbox="abc"><img src="Lucon.png" alt="サンプル画像" width="900" /></a>
 <a href="20240726_102.JPG" data-lightbox="abc"><img src="20240726_102.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow"><marquee behavior="left">!!! 早朝BordeauxからNantesへ電車移動 !!!</marquee></span></h2>
