@@ -154,13 +154,13 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7-xn5JubL5g?si=uwkafQQgxTs-ciZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div style="background-color:rgb(255,255,255,0.5);">
-<h3><!--<span class="yellow">--><br>ナデシコの試合をスタジアム観戦で偶然隣りの席が富士ゼロックス時代の先輩。WCスタジアム観戦100試合以上の有名人。<br>
-私の次女は仕事でWEリーグのイベント担当。フリーキックを決めた、藤野あおば。フリートークさせると全く話せないらしい<br>
+<div style="background-color:rgb(255,255,255,0.8);">
+<h3><!--<span class="yellow">--><br>ナデシコの試合をスタジアム観戦で偶然隣りの席が富士ゼロックス時代の先輩。<br>WCスタジアム観戦100試合以上の有名人。<br>
+私の次女は仕事でWEリーグのイベント担当。フリーキックを決めた、藤野あおば。<br>フリートークさせると全く話せないらしい<br>
 MVP清家が全く目立ってないのを残念がっていた。<br>
-日本の攻撃は数回だけ。スペインのCB二人へのバックパスは殆どなかった。日本は長谷川ですらGKバックパス連発。<br>
-フリーキック獲得したスペインのファールはDOGSO<br>
-レッド出してもおかしくなかった。試合はスペインのボール回しに日本がなんとか耐える時間が長く、それを観客が固唾をのんで見守る。静まりかえっていた。ゴール裏の日本サポーターですら声が出ない。<br>
+日本の攻撃は数回だけ。スペインのCB二人へのバックパスは殆どなかった。<br>日本は長谷川ですらGKバックパス連発。<br>
+フリーキック獲得したスペインのファールはDOGSO、レッド出してもおかしくなかった。<br>
+試合はスペインのボール回しに日本がなんとか耐える時間が長く、それを観客が固唾をのんで見守る。<br>静まりかえっていた。ゴール裏の日本サポーターですら声が出ない。<br>
 逆転されるまで、スペイン人がエスパーニャと時々連呼<br>
 フェイスペイントした日本サポーター、日本代表ユニフォームをきた男性白人、ゲームキャラにフェイスペイントした日本サポーターが、<br>
 バックスタンドの最前列前の通路で、歩きながらハーポンと叫びながら手拍子しても効果なし。<br>
