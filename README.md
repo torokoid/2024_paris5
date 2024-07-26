@@ -145,8 +145,10 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
+
 <h2><span class="yellow"><marquee behavior="left">!!!君が代!!!</marquee></span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-xn5JubL5g?si=uwkafQQgxTs-ciZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <h3><span class="yellow"><br>～～～スタジアム行きバス停には、地元ボランティアが案内してくれました～～～<br><br></span></h3>
