@@ -128,13 +128,24 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! Nantes到着 !!!</marquee></span></h2>
 
+<a href="20240726_113.JPG" data-lightbox="abc"><img src="20240726_113.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_114.JPG" data-lightbox="abc"><img src="20240726_114.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_115.JPG" data-lightbox="abc"><img src="20240726_115.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_116.JPG" data-lightbox="abc"><img src="20240726_116.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_117.JPG" data-lightbox="abc"><img src="20240726_117.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_118.JPG" data-lightbox="abc"><img src="20240726_118.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_119.JPG" data-lightbox="abc"><img src="20240726_119.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_120.JPG" data-lightbox="abc"><img src="20240726_120.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_121.JPG" data-lightbox="abc"><img src="20240726_121.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_122.JPG" data-lightbox="abc"><img src="20240726_122.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_123.JPG" data-lightbox="abc"><img src="20240726_123.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_124.JPG" data-lightbox="abc"><img src="20240726_124.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～ホテルにチェックイン後、スタジアムへ～～～<br><br></span></h3>
 
 
-<h3><span class="yellow"><br>～～～フランスの大統領元～～～<br><br></span></h3>
 
-
-
-<h2><span class="yellow"><marquee behavior="left">!!!買い物は続く。ワイン博物館に行ってから、スタジアムに行くことになった!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!君が代!!!</marquee></span></h2>
 
 
 
